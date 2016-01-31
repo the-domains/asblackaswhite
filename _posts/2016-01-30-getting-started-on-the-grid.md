@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2016-01-31T01:27:40.142Z'
+datePublished: '2016-01-31T01:27:40.175Z'
 dateModified: '2016-01-31T01:27:35.119Z'
 title: As Black as White
 author: []
