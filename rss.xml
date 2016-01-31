@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[asblackaswhite]]></title>
         <description><![CDATA[asblackaswhite]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/asblackaswhite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 21:52:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 01:27:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/asblackaswhite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <title><![CDATA[As Black as White]]></title>
+            <description><![CDATA[<article><h1>As Black as White</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f6aad7aa197c96cf7b09c184f18119a021db515.jpg"></article>]]></description>
+            <link>https://thegrid.ai/asblackaswhite/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">2b7227f5-d8cc-457e-ba1b-e53b863f6c50</guid>
-            <pubDate>Sat, 30 Jan 2016 21:50:34 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 01:27:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
